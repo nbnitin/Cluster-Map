@@ -1,0 +1,16 @@
+PODS:
+  - OCMapView (0.1.0)
+
+DEPENDENCIES:
+  - OCMapView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OCMapView
+
+SPEC CHECKSUMS:
+  OCMapView: baa3a385659fd786c9c8e683d48c5af514f427af
+
+PODFILE CHECKSUM: 24a586b78a17e6efb4110559491f62569e3d7980
+
+COCOAPODS: 1.5.3

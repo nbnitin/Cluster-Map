@@ -1,0 +1,607 @@
+{
+    "status": "1",
+    "business": [
+        {
+            "current_user_fav": 0,
+            "business_id": "muldoons-irish-pub-newport-beach",
+            "business_name": "Muldoon's Irish Pub",
+            "business_image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A7UU1gYxBckuYWh-QFyGSg/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "202 Newport Ctr Dr",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.6123505,
+            "longitude": -117.8747025,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 3,
+                "average_hotness": 1,
+                "average_seating": 2
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "3",
+                "hotness": "1",
+                "seating": "2",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560495665.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560503235.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560503291.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560503704.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560515249.jpg"
+                ],
+                "video": [
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560495938.mp4",
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560502226.mp4",
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560503851.mp4",
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560504040.mp4"
+                ]
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "flemings-prime-steakhouse-and-wine-bar-newport-beach-newport-beach",
+            "business_name": "Flemings Prime Steakhouse & Wine Bar- Newport Beach",
+            "business_image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Sqw8_s3pisLFAO6F_ASvLw/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "455 Newport Center Dr",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.6152036396438,
+            "longitude": -117.873185003513,
+            "average_rating": {
+                "average_busy": 1,
+                "average_female_male_ratio": 2,
+                "average_hotness": 1,
+                "average_seating": 1
+            },
+            "user_rating": {
+                "busy": "1",
+                "female_male_ratio": "2",
+                "hotness": "1",
+                "seating": "1",
+                "review_text": "gahshebzjhejduyrhxy",
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560500858.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560501805.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560502763.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560504388.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560505500.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "the-lot-fashion-island-newport-beach",
+            "business_name": "THE LOT Fashion Island",
+            "business_image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XA1boq0ZIjlcAZQA7-g-Yw/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "999 Newport Center Dr",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.616398,
+            "longitude": -117.876361,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 1,
+                "average_hotness": 3,
+                "average_seating": 1
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "1",
+                "hotness": "3",
+                "seating": "1",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560504756.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "bazille-at-nordstrom-newport-beach-2",
+            "business_name": "Bazille at Nordstrom",
+            "business_image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wIe9rCVPKdKA9yFLBTbl3A/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "901 Newport Center Dr",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.616049,
+            "longitude": -117.87765,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 3,
+                "average_hotness": 1,
+                "average_seating": 1
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "3",
+                "hotness": "1",
+                "seating": "1",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560503390.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560504497.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "yard-house-newport-beach",
+            "business_name": "Yard House",
+            "business_image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_rd3WICLqdGwGFiPG16VDw/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "849 Newport Center Dr",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.6171218552015,
+            "longitude": -117.876262438153,
+            "average_rating": {
+                "average_busy": 2,
+                "average_female_male_ratio": 3,
+                "average_hotness": 2,
+                "average_seating": 2
+            },
+            "user_rating": {
+                "busy": "2",
+                "female_male_ratio": "3",
+                "hotness": "2",
+                "seating": "2",
+                "review_text": null,
+                "photo": null,
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "tommy-bahama-restaurant-bar-store-newport-beach-newport-beach",
+            "business_name": "Tommy Bahama Restaurant | Bar | Store - Newport Beach",
+            "business_image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aIiutlvQr11z9NeliH0lzw/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "854 Avocado Ave",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.6057079125404,
+            "longitude": -117.875228558264,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 3,
+                "average_hotness": 3,
+                "average_seating": 3
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "3",
+                "hotness": "3",
+                "seating": "3",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560497201.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560502525.jpg"
+                ],
+                "video": [
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560496276.mp4"
+                ]
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "aqua-lounge-newport-beach-2",
+            "business_name": "Aqua Lounge",
+            "business_image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jjoa9iHqfIyH_nH2PrTYwA/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "690 Newport Center Dr",
+                "Island Hotel"
+            ],
+            "latitude": 33.6198325672511,
+            "longitude": -117.875114679337,
+            "average_rating": {
+                "average_busy": 1,
+                "average_female_male_ratio": 2,
+                "average_hotness": 3,
+                "average_seating": 3
+            },
+            "user_rating": {
+                "busy": "1",
+                "female_male_ratio": "2",
+                "hotness": "3",
+                "seating": "3",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560501987.jpg"
+                ],
+                "video": [
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560495880.mp4"
+                ]
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "rothschilds-corona-del-mar",
+            "business_name": "Rothschild's",
+            "business_image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BaFndjLSDm4CS9Vk8ArCzg/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "2407 E Coast Hwy",
+                "Corona Del Mar, CA 92625"
+            ],
+            "latitude": 33.60407,
+            "longitude": -117.87449,
+            "average_rating": {
+                "average_busy": 2,
+                "average_female_male_ratio": 3,
+                "average_hotness": 3,
+                "average_seating": 3
+            },
+            "user_rating": {
+                "busy": "1",
+                "female_male_ratio": "3",
+                "hotness": "3",
+                "seating": "3",
+                "review_text": "guh",
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560497237.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560504147.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "gelsons-newport-beach-wine-bar-newport-beach",
+            "business_name": "Gelson's Newport Beach Wine Bar",
+            "business_image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fapuc2n9nw0_mccN9WzHgg/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "1660 San Miguel Dr",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.61223,
+            "longitude": -117.86409,
+            "average_rating": {
+                "average_busy": 1,
+                "average_female_male_ratio": 1,
+                "average_hotness": 3,
+                "average_seating": 3
+            },
+            "user_rating": {
+                "busy": "1",
+                "female_male_ratio": "1",
+                "hotness": "3",
+                "seating": "3",
+                "review_text": "gr8",
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560495750.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560500986.jpg",
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560501911.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "the-place-corona-del-mar",
+            "business_name": "The Place",
+            "business_image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tEvuN4jBSRebMB4fXjWTlA/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "2920 E Coast Hwy",
+                "Corona Del Mar, CA 92625"
+            ],
+            "latitude": 33.5999,
+            "longitude": -117.87199,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 2,
+                "average_hotness": 2,
+                "average_seating": 2
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "2",
+                "hotness": "2",
+                "seating": "2",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560495786.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "newport-beach-jazz-festival-newport-beach",
+            "business_name": "Newport Beach Jazz Festival",
+            "business_image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KPI8Zc_mWJd2H1lCY8nRDg/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "1107 Jamboree Rd",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.61774,
+            "longitude": -117.88887,
+            "average_rating": null,
+            "user_rating": null,
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "sandbar-lounge-newport-beach",
+            "business_name": "Sandbar Lounge",
+            "business_image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5OyboY7pYmNnMi5yBkBEwg/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "1107 Jamboree Rd",
+                "Newport Beach, CA 92660"
+            ],
+            "latitude": 33.61774,
+            "longitude": -117.88887,
+            "average_rating": null,
+            "user_rating": null,
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "port-restaurant-and-bar-corona-del-mar-2",
+            "business_name": "Port Restaurant & Bar",
+            "business_image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vQeCcdzApBuKTqPQqqXq4w/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "440 Heliotrope Ave",
+                "Corona del Mar, CA 92625"
+            ],
+            "latitude": 33.599385,
+            "longitude": -117.872742,
+            "average_rating": {
+                "average_busy": 1,
+                "average_female_male_ratio": 2,
+                "average_hotness": 3,
+                "average_seating": 1
+            },
+            "user_rating": {
+                "busy": "1",
+                "female_male_ratio": "2",
+                "hotness": "3",
+                "seating": "1",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560503769.jpg"
+                ],
+                "video": [
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560495830.mp4"
+                ]
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "lounge-4-events-llc-newport-beach-2",
+            "business_name": "Lounge 4 Events, LLC",
+            "business_image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y_yV1HCuq_qf1icl8AGCdg/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "4000 Park Newport St",
+                "Apt 211"
+            ],
+            "latitude": 33.6263863742352,
+            "longitude": -117.880859300494,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 3,
+                "average_hotness": 1,
+                "average_seating": 3
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "3",
+                "hotness": "1",
+                "seating": "3",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560502924.jpg"
+                ],
+                "video": [
+                    "https://lamp.trignodev.net/shouldigo/web/videos/1560500780.mp4"
+                ]
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "the-quiet-woman-corona-del-mar",
+            "business_name": "The Quiet Woman",
+            "business_image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PzJgnZcCzxKANsu49Qjt8w/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "3224 E Coast Hwy",
+                "Corona Del Mar, CA 92625"
+            ],
+            "latitude": 33.59693,
+            "longitude": -117.8708,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 3,
+                "average_hotness": 3,
+                "average_seating": 3
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "3",
+                "hotness": "3",
+                "seating": "3",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560496135.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "bandera-corona-del-mar-3",
+            "business_name": "Bandera",
+            "business_image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FkPkoA0B8qolb23lRBug_g/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "3201 E Coast Hwy",
+                "Corona Del Mar, CA 92625"
+            ],
+            "latitude": 33.59669,
+            "longitude": -117.871487,
+            "average_rating": {
+                "average_busy": 2,
+                "average_female_male_ratio": 3,
+                "average_hotness": 2,
+                "average_seating": 2
+            },
+            "user_rating": {
+                "busy": "2",
+                "female_male_ratio": "3",
+                "hotness": "2",
+                "seating": "2",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560496161.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "i-love-laguna-tours-laguna-beach",
+            "business_name": "I Love Laguna Tours",
+            "business_image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NnfspUZOkKdJK0MRdjT1uA/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "Laguna Beach, CA 92651",
+                null
+            ],
+            "latitude": 33.5588226318359,
+            "longitude": -117.772834777832,
+            "average_rating": null,
+            "user_rating": null,
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "dj-jesse-g-santa-ana",
+            "business_name": "DJ Jesse G",
+            "business_image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W98URI_ENPTDo9En8FTXoQ/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "Santa Ana, CA 92701",
+                null
+            ],
+            "latitude": 33.74772,
+            "longitude": -117.86498,
+            "average_rating": {
+                "average_busy": 3,
+                "average_female_male_ratio": 2,
+                "average_hotness": 1,
+                "average_seating": 2
+            },
+            "user_rating": {
+                "busy": "3",
+                "female_male_ratio": "2",
+                "hotness": "1",
+                "seating": "2",
+                "review_text": null,
+                "photo": [
+                    "https://lamp.trignodev.net/shouldigo/web/images/1560502556.jpg"
+                ],
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "ocavs-lighting-and-sound-laguna-niguel-and-irvine",
+            "business_name": "Ocavs Lighting & Sound",
+            "business_image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ydJY1nuCM5Ce3tbS2k1Bbw/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "Laguna  Niguel and Irvine, CA 92677",
+                null
+            ],
+            "latitude": 33.52554,
+            "longitude": -117.71436,
+            "average_rating": null,
+            "user_rating": null,
+            "recent_rating": null,
+            "offer": null
+        },
+        {
+            "current_user_fav": 0,
+            "business_id": "mariachi-express-la-voz-garden-grove",
+            "business_name": "Mariachi Express La Voz",
+            "business_image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8hZixdmwG8UPjN-o87ea9Q/o.jpg",
+            "hotspot": 0,
+            "business_address": [
+                "12861 West St",
+                "Garden Grove, CA 92840"
+            ],
+            "latitude": 33.77586,
+            "longitude": -117.92367,
+            "average_rating": {
+                "average_busy": 2,
+                "average_female_male_ratio": 2,
+                "average_hotness": 2,
+                "average_seating": 2
+            },
+            "user_rating": {
+                "busy": "2",
+                "female_male_ratio": "2",
+                "hotness": "2",
+                "seating": "2",
+                "review_text": null,
+                "photo": null,
+                "video": null
+            },
+            "recent_rating": null,
+            "offer": null
+        }
+    ]
+}

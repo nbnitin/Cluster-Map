@@ -1,0 +1,627 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		08523263E65B6E6A42D828BA6E619570 /* OCAlgorithms.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE46ECD9F38CCD862A8FDAFD7BF4A18 /* OCAlgorithms.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0ABBD89A00A8F1644002AD3F3AFEB92B /* OCMapView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1727397ED43307BDD19912E392CA8176 /* OCMapView.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		1B99EE3F795230824A9971FF5E2C1D4B /* Pods-ClusterMapWithOCMapPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 00C421DE9713B2C3AAAB96ADE64BC576 /* Pods-ClusterMapWithOCMapPod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1CB4D108D0F288512711EB2A33830E4C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A0E06BD44E450A589FD784698A5DFB6 /* Foundation.framework */; };
+		22988AE5463E2A2460F960D3DE28F7A8 /* Pods-ClusterMapWithOCMapPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 305D9AFAE4900E986AF9B4A493B464EC /* Pods-ClusterMapWithOCMapPod-dummy.m */; };
+		30C3E8FC1840BF357FE99F61C53ED2B5 /* OCAlgorithms.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BDF8E36592FF5E86E87D002E6673F8E /* OCAlgorithms.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		31AFEAD965C9E17A7C1E1202870E49D2 /* OCAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = D054765BED28041411190FFD780E4820 /* OCAnnotation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		334B0435B66004ABC90754BE1258F096 /* OCAlgorithmDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = BAF183EC7D336A3919E962CB47C402F5 /* OCAlgorithmDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		47E77C4320852831AE89642F085D1CE7 /* OCGrouping.h in Headers */ = {isa = PBXBuildFile; fileRef = C5411823BFB60808D1D58218EE460F1C /* OCGrouping.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6C7B97CC8A0CD3010453C8D8D074F58D /* OCDistance.m in Sources */ = {isa = PBXBuildFile; fileRef = FE688E86CD1CA8D015CD78CB72B89CD0 /* OCDistance.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		6DCD201ED6268E1F5F75E653CBDC21A4 /* OCMapView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6679DE0E7615A277F5DAF2C4AAEDD22C /* OCMapView-dummy.m */; };
+		7D489A7CA30CACB03F505551FA6F7664 /* OCAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7732409D33210A2B4B87FC89BAAE8BCB /* OCAnnotation.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		7F3A31FFA0CCA3C5E262E038A2262A50 /* OCDistance.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E662F54A1A9961B21852022B03EC459 /* OCDistance.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8AAEAC544CC5C5E8F8BD6878C8319219 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64F3A251032D31CCA061D5F052D2655D /* MapKit.framework */; };
+		A4B77A72C5FF6230663B836C4F8D4F31 /* OCMapView.h in Headers */ = {isa = PBXBuildFile; fileRef = 05CBB0BE6D1CA1DFDDD5DBFD6094C54B /* OCMapView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A651B56A6F71E295E3A3F6521C6F351F /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C40F0CD92B86D6194CCEE2C1C5146A6 /* CoreLocation.framework */; };
+		D771CF29A2C3128815E8497F158174B8 /* OCMapView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 280BC292B4C9605457ACCF2E1582B9CF /* OCMapView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F1FFE9EFEDA4837ECCB2ED4539EA95B0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A0E06BD44E450A589FD784698A5DFB6 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		37ECFC4CFDADFC0B0C51CF5A32180642 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2AED8F7FC05F8E81F68687DC44F62A7F;
+			remoteInfo = OCMapView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00C421DE9713B2C3AAAB96ADE64BC576 /* Pods-ClusterMapWithOCMapPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ClusterMapWithOCMapPod-umbrella.h"; sourceTree = "<group>"; };
+		0427020DBE9100530879543A1F4950FD /* Pods-ClusterMapWithOCMapPod-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ClusterMapWithOCMapPod-acknowledgements.markdown"; sourceTree = "<group>"; };
+		05CBB0BE6D1CA1DFDDD5DBFD6094C54B /* OCMapView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMapView.h; path = OCMapView/OCMapView.h; sourceTree = "<group>"; };
+		1727397ED43307BDD19912E392CA8176 /* OCMapView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMapView.m; path = OCMapView/OCMapView.m; sourceTree = "<group>"; };
+		280BC292B4C9605457ACCF2E1582B9CF /* OCMapView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OCMapView-umbrella.h"; sourceTree = "<group>"; };
+		30206360B29F1E9D5B0C4BEFEEA3E490 /* Pods-ClusterMapWithOCMapPod-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ClusterMapWithOCMapPod-resources.sh"; sourceTree = "<group>"; };
+		305D9AFAE4900E986AF9B4A493B464EC /* Pods-ClusterMapWithOCMapPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ClusterMapWithOCMapPod-dummy.m"; sourceTree = "<group>"; };
+		3A0E06BD44E450A589FD784698A5DFB6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3E662F54A1A9961B21852022B03EC459 /* OCDistance.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCDistance.h; path = OCMapView/OCDistance.h; sourceTree = "<group>"; };
+		3F550B1F8BE4AD8134645E729A969EFE /* Pods-ClusterMapWithOCMapPod-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ClusterMapWithOCMapPod-acknowledgements.plist"; sourceTree = "<group>"; };
+		4A0442BB6F180629BAAB533A18E3C838 /* Pods-ClusterMapWithOCMapPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ClusterMapWithOCMapPod.debug.xcconfig"; sourceTree = "<group>"; };
+		5A7CD73707DD9E095A56F3182F8997D5 /* OCMapView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OCMapView.framework; path = OCMapView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C40F0CD92B86D6194CCEE2C1C5146A6 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreLocation.framework; sourceTree = DEVELOPER_DIR; };
+		64F3A251032D31CCA061D5F052D2655D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/MapKit.framework; sourceTree = DEVELOPER_DIR; };
+		6621C48B905CE9CC12663D60A62B6403 /* Pods-ClusterMapWithOCMapPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ClusterMapWithOCMapPod.release.xcconfig"; sourceTree = "<group>"; };
+		6679DE0E7615A277F5DAF2C4AAEDD22C /* OCMapView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OCMapView-dummy.m"; sourceTree = "<group>"; };
+		7732409D33210A2B4B87FC89BAAE8BCB /* OCAnnotation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCAnnotation.m; path = OCMapView/OCAnnotation.m; sourceTree = "<group>"; };
+		8BDF8E36592FF5E86E87D002E6673F8E /* OCAlgorithms.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCAlgorithms.m; path = OCMapView/OCAlgorithms.m; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D842F851459C046BB5374CCF4A09430 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE04ADA3A0461D195F525386EC195E46 /* Pods_ClusterMapWithOCMapPod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ClusterMapWithOCMapPod.framework; path = "Pods-ClusterMapWithOCMapPod.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B131C7B106A8865B37414140AA7781DA /* Pods-ClusterMapWithOCMapPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ClusterMapWithOCMapPod.modulemap"; sourceTree = "<group>"; };
+		B9AC2F8A7B0EFF5919CB5D0082786890 /* OCMapView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = OCMapView.modulemap; sourceTree = "<group>"; };
+		BAF183EC7D336A3919E962CB47C402F5 /* OCAlgorithmDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCAlgorithmDelegate.h; path = OCMapView/OCAlgorithmDelegate.h; sourceTree = "<group>"; };
+		C5411823BFB60808D1D58218EE460F1C /* OCGrouping.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCGrouping.h; path = OCMapView/OCGrouping.h; sourceTree = "<group>"; };
+		CCDAD8B7C584A50F99F438DF8F1F68A9 /* OCMapView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OCMapView.xcconfig; sourceTree = "<group>"; };
+		D054765BED28041411190FFD780E4820 /* OCAnnotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCAnnotation.h; path = OCMapView/OCAnnotation.h; sourceTree = "<group>"; };
+		D5344602A717B28773856DE851068B10 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D80E51F71703A069CE5E21D5F33925CB /* OCMapView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OCMapView-prefix.pch"; sourceTree = "<group>"; };
+		DAE46ECD9F38CCD862A8FDAFD7BF4A18 /* OCAlgorithms.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCAlgorithms.h; path = OCMapView/OCAlgorithms.h; sourceTree = "<group>"; };
+		FE688E86CD1CA8D015CD78CB72B89CD0 /* OCDistance.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCDistance.m; path = OCMapView/OCDistance.m; sourceTree = "<group>"; };
+		FF3349786BE5C7794B34E8DB0E023564 /* Pods-ClusterMapWithOCMapPod-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ClusterMapWithOCMapPod-frameworks.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		31316E7E07B684B15B187593527DEF2F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CB4D108D0F288512711EB2A33830E4C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8648A19966521A710210C1F973AB0F96 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A651B56A6F71E295E3A3F6521C6F351F /* CoreLocation.framework in Frameworks */,
+				F1FFE9EFEDA4837ECCB2ED4539EA95B0 /* Foundation.framework in Frameworks */,
+				8AAEAC544CC5C5E8F8BD6878C8319219 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		122DA2E5084A4393C29BE363C764795C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5E7518B6DE90348CB735FF8DD8EC4435 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		26DC79558D8D5333A5D49F49F2571DF4 /* OCMapView */ = {
+			isa = PBXGroup;
+			children = (
+				BAF183EC7D336A3919E962CB47C402F5 /* OCAlgorithmDelegate.h */,
+				DAE46ECD9F38CCD862A8FDAFD7BF4A18 /* OCAlgorithms.h */,
+				8BDF8E36592FF5E86E87D002E6673F8E /* OCAlgorithms.m */,
+				D054765BED28041411190FFD780E4820 /* OCAnnotation.h */,
+				7732409D33210A2B4B87FC89BAAE8BCB /* OCAnnotation.m */,
+				3E662F54A1A9961B21852022B03EC459 /* OCDistance.h */,
+				FE688E86CD1CA8D015CD78CB72B89CD0 /* OCDistance.m */,
+				C5411823BFB60808D1D58218EE460F1C /* OCGrouping.h */,
+				05CBB0BE6D1CA1DFDDD5DBFD6094C54B /* OCMapView.h */,
+				1727397ED43307BDD19912E392CA8176 /* OCMapView.m */,
+				CF05202DA12DC292EF65060857BEA360 /* Support Files */,
+			);
+			name = OCMapView;
+			path = OCMapView;
+			sourceTree = "<group>";
+		};
+		4E4C45EFC2F198F56840B5CACF28487A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5A7CD73707DD9E095A56F3182F8997D5 /* OCMapView.framework */,
+				AE04ADA3A0461D195F525386EC195E46 /* Pods_ClusterMapWithOCMapPod.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5E7518B6DE90348CB735FF8DD8EC4435 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				5C40F0CD92B86D6194CCEE2C1C5146A6 /* CoreLocation.framework */,
+				3A0E06BD44E450A589FD784698A5DFB6 /* Foundation.framework */,
+				64F3A251032D31CCA061D5F052D2655D /* MapKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
+				A05F2794B0C65D80D698EEFFB6531561 /* Pods */,
+				4E4C45EFC2F198F56840B5CACF28487A /* Products */,
+				CEC2AEE5CFF504572D4427F6213E3C42 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		A05F2794B0C65D80D698EEFFB6531561 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				26DC79558D8D5333A5D49F49F2571DF4 /* OCMapView */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		BFCE02000F88BB8C4D6D516D5A16E369 /* Pods-ClusterMapWithOCMapPod */ = {
+			isa = PBXGroup;
+			children = (
+				D5344602A717B28773856DE851068B10 /* Info.plist */,
+				B131C7B106A8865B37414140AA7781DA /* Pods-ClusterMapWithOCMapPod.modulemap */,
+				0427020DBE9100530879543A1F4950FD /* Pods-ClusterMapWithOCMapPod-acknowledgements.markdown */,
+				3F550B1F8BE4AD8134645E729A969EFE /* Pods-ClusterMapWithOCMapPod-acknowledgements.plist */,
+				305D9AFAE4900E986AF9B4A493B464EC /* Pods-ClusterMapWithOCMapPod-dummy.m */,
+				FF3349786BE5C7794B34E8DB0E023564 /* Pods-ClusterMapWithOCMapPod-frameworks.sh */,
+				30206360B29F1E9D5B0C4BEFEEA3E490 /* Pods-ClusterMapWithOCMapPod-resources.sh */,
+				00C421DE9713B2C3AAAB96ADE64BC576 /* Pods-ClusterMapWithOCMapPod-umbrella.h */,
+				4A0442BB6F180629BAAB533A18E3C838 /* Pods-ClusterMapWithOCMapPod.debug.xcconfig */,
+				6621C48B905CE9CC12663D60A62B6403 /* Pods-ClusterMapWithOCMapPod.release.xcconfig */,
+			);
+			name = "Pods-ClusterMapWithOCMapPod";
+			path = "Target Support Files/Pods-ClusterMapWithOCMapPod";
+			sourceTree = "<group>";
+		};
+		CEC2AEE5CFF504572D4427F6213E3C42 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				BFCE02000F88BB8C4D6D516D5A16E369 /* Pods-ClusterMapWithOCMapPod */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CF05202DA12DC292EF65060857BEA360 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9D842F851459C046BB5374CCF4A09430 /* Info.plist */,
+				B9AC2F8A7B0EFF5919CB5D0082786890 /* OCMapView.modulemap */,
+				CCDAD8B7C584A50F99F438DF8F1F68A9 /* OCMapView.xcconfig */,
+				6679DE0E7615A277F5DAF2C4AAEDD22C /* OCMapView-dummy.m */,
+				D80E51F71703A069CE5E21D5F33925CB /* OCMapView-prefix.pch */,
+				280BC292B4C9605457ACCF2E1582B9CF /* OCMapView-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/OCMapView";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		4D62CA7D42600456C175D80B51A3A11A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B99EE3F795230824A9971FF5E2C1D4B /* Pods-ClusterMapWithOCMapPod-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8039DFDCEC57DCD373352A9E587678B5 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				334B0435B66004ABC90754BE1258F096 /* OCAlgorithmDelegate.h in Headers */,
+				08523263E65B6E6A42D828BA6E619570 /* OCAlgorithms.h in Headers */,
+				31AFEAD965C9E17A7C1E1202870E49D2 /* OCAnnotation.h in Headers */,
+				7F3A31FFA0CCA3C5E262E038A2262A50 /* OCDistance.h in Headers */,
+				47E77C4320852831AE89642F085D1CE7 /* OCGrouping.h in Headers */,
+				D771CF29A2C3128815E8497F158174B8 /* OCMapView-umbrella.h in Headers */,
+				A4B77A72C5FF6230663B836C4F8D4F31 /* OCMapView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2AED8F7FC05F8E81F68687DC44F62A7F /* OCMapView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0A1D9AE1A5C47BF96112E2653D1FF46D /* Build configuration list for PBXNativeTarget "OCMapView" */;
+			buildPhases = (
+				4F7F07E9660881A88EB85D994B6CC3C1 /* Sources */,
+				8648A19966521A710210C1F973AB0F96 /* Frameworks */,
+				8039DFDCEC57DCD373352A9E587678B5 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OCMapView;
+			productName = OCMapView;
+			productReference = 5A7CD73707DD9E095A56F3182F8997D5 /* OCMapView.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		737EAB991F5DA5F8C7FE8E94FF6113A9 /* Pods-ClusterMapWithOCMapPod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED62ED438C13B8E5FCA76C1EBC2DFB86 /* Build configuration list for PBXNativeTarget "Pods-ClusterMapWithOCMapPod" */;
+			buildPhases = (
+				3BDCF67A6B114E2A4828D5D2FD9B373A /* Sources */,
+				31316E7E07B684B15B187593527DEF2F /* Frameworks */,
+				4D62CA7D42600456C175D80B51A3A11A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2CC43EBCC32965FDC86B073D16E3EDDD /* PBXTargetDependency */,
+			);
+			name = "Pods-ClusterMapWithOCMapPod";
+			productName = "Pods-ClusterMapWithOCMapPod";
+			productReference = AE04ADA3A0461D195F525386EC195E46 /* Pods_ClusterMapWithOCMapPod.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 4E4C45EFC2F198F56840B5CACF28487A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2AED8F7FC05F8E81F68687DC44F62A7F /* OCMapView */,
+				737EAB991F5DA5F8C7FE8E94FF6113A9 /* Pods-ClusterMapWithOCMapPod */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BDCF67A6B114E2A4828D5D2FD9B373A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22988AE5463E2A2460F960D3DE28F7A8 /* Pods-ClusterMapWithOCMapPod-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4F7F07E9660881A88EB85D994B6CC3C1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30C3E8FC1840BF357FE99F61C53ED2B5 /* OCAlgorithms.m in Sources */,
+				7D489A7CA30CACB03F505551FA6F7664 /* OCAnnotation.m in Sources */,
+				6C7B97CC8A0CD3010453C8D8D074F58D /* OCDistance.m in Sources */,
+				6DCD201ED6268E1F5F75E653CBDC21A4 /* OCMapView-dummy.m in Sources */,
+				0ABBD89A00A8F1644002AD3F3AFEB92B /* OCMapView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2CC43EBCC32965FDC86B073D16E3EDDD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = OCMapView;
+			target = 2AED8F7FC05F8E81F68687DC44F62A7F /* OCMapView */;
+			targetProxy = 37ECFC4CFDADFC0B0C51CF5A32180642 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		45BA4B618B75C85B3DEB5A54A492BB32 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCDAD8B7C584A50F99F438DF8F1F68A9 /* OCMapView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/OCMapView/OCMapView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/OCMapView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/OCMapView/OCMapView.modulemap";
+				PRODUCT_MODULE_NAME = OCMapView;
+				PRODUCT_NAME = OCMapView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		545DF0548686A552027D1DF05E306A5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6621C48B905CE9CC12663D60A62B6403 /* Pods-ClusterMapWithOCMapPod.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ClusterMapWithOCMapPod/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ClusterMapWithOCMapPod/Pods-ClusterMapWithOCMapPod.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D2C58E0F9EBB57EDF4240E7D1D83B3D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCDAD8B7C584A50F99F438DF8F1F68A9 /* OCMapView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/OCMapView/OCMapView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/OCMapView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/OCMapView/OCMapView.modulemap";
+				PRODUCT_MODULE_NAME = OCMapView;
+				PRODUCT_NAME = OCMapView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		EDFD82DE02AC7E3C4C4CCC365B79ECC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A0442BB6F180629BAAB533A18E3C838 /* Pods-ClusterMapWithOCMapPod.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ClusterMapWithOCMapPod/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ClusterMapWithOCMapPod/Pods-ClusterMapWithOCMapPod.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		FA39F93BCC98288C75B07575327D1A76 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		FEB52B20EEB50135A85E1727D4046F94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0A1D9AE1A5C47BF96112E2653D1FF46D /* Build configuration list for PBXNativeTarget "OCMapView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2C58E0F9EBB57EDF4240E7D1D83B3D8 /* Debug */,
+				45BA4B618B75C85B3DEB5A54A492BB32 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEB52B20EEB50135A85E1727D4046F94 /* Debug */,
+				FA39F93BCC98288C75B07575327D1A76 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ED62ED438C13B8E5FCA76C1EBC2DFB86 /* Build configuration list for PBXNativeTarget "Pods-ClusterMapWithOCMapPod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDFD82DE02AC7E3C4C4CCC365B79ECC2 /* Debug */,
+				545DF0548686A552027D1DF05E306A5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
